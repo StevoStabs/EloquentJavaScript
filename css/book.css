@@ -26,7 +26,6 @@ h2 {
 
 div.block {
   padding: 0 .5em;
-  position: relative;
 }
 
 div.exercisenum {
@@ -50,7 +49,6 @@ div.solution {
   border-left: .2em solid #AAEEAA;
   margin-left: -.7em;
   padding-left: .5em;
-  position: relative;
 }
 
 div.solutionarrow {
